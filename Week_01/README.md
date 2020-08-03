@@ -10,7 +10,7 @@
 
 这算是自己的开营语吧，结营的时候希望自己总结出自己的学习方式。可以为其他技能的学习做参考。
 
-## 每日一题
+## 
 
 #### [Day4 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/solution/hua-jie-suan-fa-24-liang-liang-jiao-huan-lian-biao/)
 
@@ -21,6 +21,27 @@
 1. 返回值
 2. 调用单元（重复操作单元）做了什么
 3. 终止条件（不能一直重复下去！有一个条件判断终止）
+
+## 刷题记录
+
+这几天看了下同学们的作业，陈东同学的表格记录感觉十分受益，借鉴一下😊
+
+### 课后作业
+
+| 题目     | 刷题次数 | 方法归类            | 备注                                                         |
+| -------- | -------- | ------------------- | ------------------------------------------------------------ |
+| 两数之和 | 1        | 暴力，HashMap，数组 | 注意空间换时间的思想；使用Hash类型的数据结构需要注意哈希碰撞；位运算的速度比直接使用十进制要快很多。 |
+|          |          |                     |                                                              |
+|          |          |                     |                                                              |
+
+### 每日一题
+
+|          |          |                     |                                                              |
+| -------- | -------- | ------------------- | ------------------------------------------------------------ |
+| 题目     | 刷题次数 | 方法归类            | 经验                                                         |
+| 两数之和 | 1        | 暴力，HashMap，数组 | 注意空间换时间的思想；使用Hash类型的数据结构需要注意哈希碰撞；位运算的速度比直接使用十进制要快很多。 |
+|          |          |                     |                                                              |
+|          |          |                     |                                                              |
 
 ## 本周作业
 
@@ -48,3 +69,33 @@
 
 - 用 add first 或 add last 这套新的 API 改写 Deque 的代码。
 - 分析 Queue 和 Priority Queue 的源码。
+
+## 每日一题
+
+本周每日一题推荐汇总：
+
+Day1: 
+爬楼梯：leetcode-70
+https://leetcode-cn.com/problems/climbing-stairs/
+
+Day2: 
+加一：leetcode-66
+https://leetcode-cn.com/problems/plus-one/
+
+Day3:
+两数之和：leetcode-1
+https://leetcode-cn.com/problems/two-sum/
+
+Day4 
+两两交换链表中的节点：leetcode-24
+https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+
+Day 5：
+合并两个有序链表：leetcode-21
+https://leetcode-cn.com/problems/merge-two-sorted-lists/
+
+Day6:
+https://leetcode-cn.com/problems/bulls-and-cows/
+
+Day7:
+设计循环双端队列： https://leetcode-cn.com/problems/design-circular-deque/
